@@ -1,0 +1,18 @@
+  body {
+    box-sizing: border-box;
+    font-size: 20px;
+    padding: 2.5%;
+    margin: 10px;
+  }
+
+
+  .nav {
+    margin: 10px;
+  }
+
+  .login {
+    float: right;
+  }
+.test {
+  backgroundColor: black; height: 50px
+}
